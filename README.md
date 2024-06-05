@@ -32,7 +32,7 @@ Retrospective data on stocks activity as well as economic data on CPI, PCE, yiel
 
 What would be the dangers of decision-making based on your inference and prediction? 
 
- "All models are wrong, but some are useful" -  George E. P. BoxLinks to an external site.
+ "All models are wrong, but some are useful" -  George E. P. Box
 
 In the real world there will never be an exact linear relationship or an exact normal distribution hence models have to be used with caution and routinely validated or quality controlled/audited.
 
